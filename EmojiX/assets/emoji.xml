@@ -1,0 +1,20 @@
+﻿<root>
+	<header title="Catagories">
+		<catagory name="Actions" desc="(ノ￣ー￣)ノ">
+			<cheader title="Action">
+				<item title="_(:з」∠)_" />
+			</cheader>
+			<cheader title="Apologizing">
+				<item title="m(._.)m" />
+			</cheader>
+			<cheader title="Writing">
+				<item title="〆(・∀・＠)" />
+			</cheader>
+		</catagory>
+		<catagory name="Animals" desc="(=^･ｪ･^=)">
+			<cheader title="Animal">
+				<item title="(○’ω’○)" />
+			</cheader>
+		</catagory>
+	</header>
+</root>

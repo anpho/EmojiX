@@ -1,0 +1,20 @@
+﻿<root>
+	<header title="表情分类">
+		<catagory name="动作" desc="(ノ￣ー￣)ノ">
+			<cheader title="动作">
+				<item title="_(:з」∠)_" />
+			</cheader>
+			<cheader title="道歉">
+				<item title="m(._.)m" />
+			</cheader>
+			<cheader title="写作">
+				<item title="〆(・∀・＠)" />
+			</cheader>
+		</catagory>
+		<catagory name="动物" desc="(=^･ｪ･^=)">
+			<cheader title="动物">
+				<item title="(○’ω’○)" />
+			</cheader>
+		</catagory>
+	</header>
+</root>
